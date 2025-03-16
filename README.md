@@ -170,7 +170,7 @@ $ npm i -D sucrase
 # Debugging TypeScript
 
 https://code.visualstudio.com/docs/typescript/typescript-debugging
-
+```
 
 {
   // Use IntelliSense to learn about possible attributes.
@@ -188,7 +188,7 @@ https://code.visualstudio.com/docs/typescript/typescript-debugging
     }
   ]
 }
-
+```
 Agrega esta línea al archivo launch.json:
 
 ```
