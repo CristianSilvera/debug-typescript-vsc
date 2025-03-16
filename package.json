@@ -1,0 +1,25 @@
+{
+  "name": "debug-typescript-vsc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianSilvera/debug-typescript-vsc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CristianSilvera/debug-typescript-vsc/issues"
+  },
+  "homepage": "https://github.com/CristianSilvera/debug-typescript-vsc#readme",
+  "devDependencies": {
+    "sucrase": "^3.35.0",
+    "typescript": "^5.8.2"
+  }
+}
